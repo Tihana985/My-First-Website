@@ -1,0 +1,62 @@
+.nav-container{
+    display: flex;
+    justify-content: space-between;
+    padding:0 60px;
+    align-items:center;
+    font-family:'Times New Roman', Times, serif;
+
+}
+
+
+ul{
+    width: 280px;
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    font-style: bold;
+}
+
+
+.headings{
+    font-style: italic; 
+    font-style: bold;
+    text-align: center;
+    padding: 2px;
+
+}
+
+#h3{color:rgb(0, 128, 102)}
+
+.artists{
+    font-size: 30px;
+    padding: 10px;
+    border: solid; color:black black;
+}
+a:hover{
+    cursor: pointer;
+color: black;
+font-size: 20px;}
+
+a{color:black;
+    text-decoration:underline;}
+
+#paragraphid{
+    text-align: center;
+}
+
+#label1{
+    text-align: right;
+}
+
+.container-text{
+    text-align: center;
+    padding: 10px;
+}
+
+#adress{
+    text-align: center;
+}
+
+body{
+    background-color: lightgrey;
+}   
